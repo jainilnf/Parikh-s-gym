@@ -1,0 +1,54 @@
+body{
+    
+  background: url('../Images/bgGymOp.png');
+  no-repeat center center fixed;
+   background-size: cover;
+   font-family: 'Fugaz One', cursive;
+}
+
+div{
+    background-color: #3C3C3C;
+    /*        #F79620;*/
+/*        #72434A;*/
+/*        #C61936; #3C3C3C*/
+/*        #252525;*/
+    text-align: center;
+    width: 60%;
+    margin: 100px auto;
+    border-radius: 25px;
+    opacity: 1.0;
+    position: fixed,
+    top:50%;
+    left: 50%;
+    right: 70%;
+    
+}
+
+h1{
+    color: white;
+    font-size: 2em;
+}
+p{
+    color: #C41330;
+        font-size:1.8em;
+}
+button{
+    background: #C41330;
+    padding: 8px;
+    color: white;
+    border-radius: 20px;
+    font-size: 1em;
+    
+    
+
+}
+i{
+    font-size: 3em;
+    color: #C41330;    
+}
+h3{
+    font-size: 2em;
+        color:white;
+    font-family: 'Playball', cursive;
+    
+}
